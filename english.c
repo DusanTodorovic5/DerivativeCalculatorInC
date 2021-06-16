@@ -836,7 +836,7 @@ void stampajTekst() {
 	printf("# 5 -> Calculate expression                             #\n");
 	printf("# 6 -> Find a derivative of function                    #\n");
 	printf("# 7 -> Redraw menu                                      #\n");
-	printf("# 0 -> Output                                           #\n");
+	printf("# 0 -> Exit                                             #\n");
 	printf("#                                                       #\n");
 	printf("#########################################################\n");
 	printf("#                                                       #\n");
